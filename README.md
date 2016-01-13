@@ -1,5 +1,8 @@
 # XcodePlugin
 
+###使用说明
+>先安装[Alcatraz](https://github.com/alcatraz/Alcatraz)，然后下面的插件有中意的，复制名字，在[Alcatraz](https://github.com/alcatraz/Alcatraz)中搜索，点击INSTALL即可安装，简单方便，安装完后彻底关闭Xcode，然后启动Xcode，会提示![](https://github.com/hello--world/XcodePlugin/blob/master/image/80B820A2-CF11-4DC7-A76A-0840A998C4B2.png?raw=true)记得点击Load Bundle加载插件。
+
 |	名字	|	介绍	|
 | :-----: | :-----: |
 |[Alcatraz](https://github.com/alcatraz/Alcatraz)<br/>Xcode插件管理工具，可通过<br/>Alcatraz进行插件的搜索、安装、<br/>删除已安装的插件。	|<img src="http://alcatraz.io/images/screenshot@2x.png" width=<"800px"><br/><img src="http://alcatraz.io/images/menu@2x.png" width=<"800px"/>|
